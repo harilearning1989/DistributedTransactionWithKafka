@@ -1,0 +1,11 @@
+
+http://localhost:8081/order/createOrder
+POST
+{
+    "name":"Mobile Phone",
+    "item":"Iphone",
+    "quantity":2,
+    "amount":10000,
+    "paymentMethod":"Phonepay",
+    "address":"PTP"
+}
